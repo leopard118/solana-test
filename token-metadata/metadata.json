@@ -2,5 +2,5 @@
   "name": "RHG Token",
   "symbol": "EXMPL",
   "description": "Example token from Solana Making a Token guide.",
-  "image": ""
+  "image": "https://github.com/leopard118/solana-test/blob/main/token-metadata/token.jpg"
 }
